@@ -7,7 +7,8 @@ worldTime is a plugin from [development example](https://avatar-home-automation.
 
  ## ★ Installation
 
- Find this plugin in the A.V.A.T.A.R plugin library and click on `install`.
+ 1. Find this plugin in the A.V.A.T.A.R plugin library and click on `install`
+ 2. Read the information page to add the default timezone
 
 ## ★ License
 Free software under [MIT license](https://github.com/avatar-home-automation/A.V.A.T.A.R-plugin-worldTime/blob/master/LICENSE)
