@@ -10,4 +10,4 @@ worldTime is a plugin from [development example](https://avatar-home-automation.
  Find this plugin in the A.V.A.T.A.R plugin library and click on `install`.
 
 ## ★ License
-Free software under [MIT license](https://avatar-home-automation/A.V.A.T.A.R-plugin-worldTime/blob/master/LICENSE)
+Free software under [MIT license](https://github.com/avatar-home-automation/A.V.A.T.A.R-plugin-worldTime/blob/master/LICENSE)
