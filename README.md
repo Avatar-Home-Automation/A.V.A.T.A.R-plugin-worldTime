@@ -1,10 +1,10 @@
 # worldTime
 
-Gives the time in the world's major cities.
+Gives the time in the world's major cities
 
-This plugin is an add-on for the [A.V.A.T.A.R](https://avatar-home-automation.github.io/docs) framework.  
+This plugin is an add-on for the [A.V.A.T.A.R](https://avatar-home-automation.github.io/docs) framework 
 
-worldTime is a plugin from [development example](https://avatar-home-automation.github.io/docs/time/)
+worldTime is an example of how to create a plugin from the [development documentation](https://avatar-home-automation.github.io/docs/time/)
 
  ## ★ Installation
 
